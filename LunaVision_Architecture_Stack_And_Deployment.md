@@ -1,6 +1,4 @@
 
----
-
 ## 🛰️ Why It Rocks
 
 | 🛠️ Stack Area            | Tools/Frameworks |
